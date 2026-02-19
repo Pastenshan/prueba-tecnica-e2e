@@ -66,4 +66,4 @@ Clonar el repositorio.
 
 Instalar dependencias: pip install pandas requests sqlalchemy pymysql.
 
-Ejecutar el script principal: python main.py.
+Ejecutar el notebook: Tarea.ipynb
